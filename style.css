@@ -1,0 +1,17 @@
+#startBtn {
+  display: block;
+  margin: 100px auto 20px auto;
+  padding: 12px 24px;
+  font-size: 18px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 4px #2e7d32;
+  transition: 0.2s;
+}
+
+#startBtn:hover {
+  background-color: #45a049;
+}
